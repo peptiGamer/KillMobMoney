@@ -1,0 +1,14 @@
+﻿---
+worlds: []
+# Which worlds should you allow this plugin to function on
+
+mob-money: 50
+# How much money should you get when you kill a mob? Default: $50
+
+messages:
+ enable: true
+ # Allows messages to be turned on. Highly recommend to turn on for better gameplay.
+
+ mobmessage: "§e§l(MOBKILL)§r §6You have earned §e%MOB_MONEY% §6for killing §e%MOB%"
+ # Mob kill message, sent to the killer.
+...

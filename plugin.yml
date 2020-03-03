@@ -1,0 +1,13 @@
+name: KillMobMoney
+main: KillMobMoney\KillMobMoney
+version: 1.0.0
+api: [3.11.1]
+depend: [EconomyAPI]
+softDepend: [PureEntitiesX]
+
+author: peptiGamer
+description: A PocketMine-MP plugin killing Mobs give Money
+permissions:
+ killmobmoney:
+  description: Permission to earn money by killing other players.
+  default: true
