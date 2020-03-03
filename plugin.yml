@@ -1,7 +1,7 @@
 name: KillMobMoney
 main: KillMobMoney\KillMobMoney
 version: 1.0.0
-api: [3.11.1]
+api: [3.11.5, 3.11.6]
 depend: [EconomyAPI]
 softDepend: [PureEntitiesX]
 
